@@ -454,6 +454,183 @@
     <Filter Include="drivers\builtin_openssl2\openssl">
       <UniqueIdentifier>{5cc9ad2d-0398-4d16-8f90-f49fe023eafb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="drivers\builtin_openssl2\ssl">
+      <UniqueIdentifier>{864d9176-27db-49c7-b8ef-a695fc2a8964}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto">
+      <UniqueIdentifier>{b66ddf82-ed8f-4643-b4ae-e152b3169910}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\aes">
+      <UniqueIdentifier>{6c8d9f11-1467-4485-aa29-e174c7034d41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\asn1">
+      <UniqueIdentifier>{7ff47614-ac1e-49b6-bb99-d842685215c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\bf">
+      <UniqueIdentifier>{1ad04df1-e52a-4914-b3de-35fe763c36c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\bio">
+      <UniqueIdentifier>{c89a07ab-4c05-4d1c-a4d2-e4682df7d280}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\bn">
+      <UniqueIdentifier>{4e2823d4-ae74-477d-90ca-4378f004b6ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\buffer">
+      <UniqueIdentifier>{d533ceee-5162-4813-9732-4c301f09fb44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\camellia">
+      <UniqueIdentifier>{8d9d5216-09f5-4c80-99a3-3d1aa7d93591}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\cast">
+      <UniqueIdentifier>{4e807199-2ba8-48ef-bffe-9d78366f0677}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\cmac">
+      <UniqueIdentifier>{5a1d0233-c21d-45cf-bb86-574c03bc56f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\cms">
+      <UniqueIdentifier>{5ebcbe62-7870-4de7-ab25-60a9adf80e84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\comp">
+      <UniqueIdentifier>{fcdbf8c8-ca41-4b2d-9abd-fedb20fcf39f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\conf">
+      <UniqueIdentifier>{ba3c8589-7e17-44b9-9832-298fd3fda1df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\des">
+      <UniqueIdentifier>{449f1a26-54b6-45db-98aa-2c856d54c216}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\dh">
+      <UniqueIdentifier>{b2e455ef-65f2-4f6b-a77d-d460da740b10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\dsa">
+      <UniqueIdentifier>{385edf19-f96d-4527-b670-20184dab63c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\dso">
+      <UniqueIdentifier>{e4e19b30-5143-4870-adc9-6e35dd9f27d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\ec">
+      <UniqueIdentifier>{3a959fd5-f330-4c2b-bb57-605672379625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\ecdh">
+      <UniqueIdentifier>{9c92d3da-a0a1-4484-bfb3-92a77e0de93d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\ecdsa">
+      <UniqueIdentifier>{32f54d8b-1e28-43ca-afbe-cd01ce0bbad4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\engine">
+      <UniqueIdentifier>{84ada3fa-8664-4846-9955-8af72ea87b00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\err">
+      <UniqueIdentifier>{73653420-b1b4-48f9-997e-cef91cf236ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\evp">
+      <UniqueIdentifier>{2b8e0414-0f74-4399-9bdf-5541dc7c5591}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\hmac">
+      <UniqueIdentifier>{2348f7f3-1bbd-49f5-b68f-41fba66eb73e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\idea">
+      <UniqueIdentifier>{cd8860ea-27ac-4df9-b487-cf9ce1974895}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\jpake">
+      <UniqueIdentifier>{6bdb8b2d-2bc0-412a-87d4-70ed0268a053}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\krb5">
+      <UniqueIdentifier>{6d9f4a4c-dce1-4bf6-ad7e-b98f0b54d760}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\lhash">
+      <UniqueIdentifier>{f595e6f1-93c1-429c-9c38-ca4c35869514}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\md2">
+      <UniqueIdentifier>{c8683a29-7f1a-49d0-a5e6-a5a27679082c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\md4">
+      <UniqueIdentifier>{d53525b2-5fb3-4e95-b8f2-27803d076622}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\md5">
+      <UniqueIdentifier>{9ea464e6-e5cf-429c-a6ca-d08441f72bb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\mdc2">
+      <UniqueIdentifier>{84dd3146-ec0e-414e-b57d-d489d810cec3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\modes">
+      <UniqueIdentifier>{f7652893-77a3-4699-8687-8b2a242153ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\objects">
+      <UniqueIdentifier>{dbc3b22b-b741-4b5a-960e-0bf9ac523b88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\ocsp">
+      <UniqueIdentifier>{3647c530-032f-4f55-857e-20c59caba5be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\pem">
+      <UniqueIdentifier>{ba0a8a17-d864-40dd-be54-cbbf3c7ef228}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\perlasm">
+      <UniqueIdentifier>{72ff6d3d-0117-482c-b848-0b4f3690ff67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\pkcs7">
+      <UniqueIdentifier>{48d3d853-cdeb-42b6-bf25-a1cff14016e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\pkcs12">
+      <UniqueIdentifier>{43889f2e-bee2-4a09-9f3a-d9fe6b6b9299}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\pqueue">
+      <UniqueIdentifier>{af4b2a31-b585-477e-8474-dddf1182e382}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\rand">
+      <UniqueIdentifier>{c7cfebb0-ffcc-4d22-9e38-1a30b4dfbfef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\rc2">
+      <UniqueIdentifier>{ec2f425c-94ff-45e2-92ee-7f95bc58f82e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\rc4">
+      <UniqueIdentifier>{23f53704-9c69-4b54-89a7-7bbc34add5b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\rc5">
+      <UniqueIdentifier>{f1dcda21-f3f6-46ca-822d-72ca5661cf69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\ripemd">
+      <UniqueIdentifier>{b4b9b59c-9692-4bc6-a52a-955b6c40db67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\rsa">
+      <UniqueIdentifier>{f70c2339-729d-452d-b951-767f95d06ab3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\seed">
+      <UniqueIdentifier>{f50ef6ef-800b-4cb0-8f05-7d62c7158d52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\sha">
+      <UniqueIdentifier>{63561a4a-3d09-410c-b15d-af06e656d4b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\srp">
+      <UniqueIdentifier>{98bcb4ed-9b64-4112-8249-8f3035ce77d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\stack">
+      <UniqueIdentifier>{0eaeb6b7-7acb-473a-959e-fbf8552183ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\store">
+      <UniqueIdentifier>{205087f6-ade0-43de-b968-476538fc7a81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\threads">
+      <UniqueIdentifier>{6f593eeb-d20f-4d9f-b9f6-6041f5ddad83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\ts">
+      <UniqueIdentifier>{09fee74c-8c0a-495e-a62f-6aa962c2c157}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\txt_db">
+      <UniqueIdentifier>{3d9de7eb-60b2-493b-922e-b64af4d4ad3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\ui">
+      <UniqueIdentifier>{0963dc9e-53ea-4a9a-8fba-58e209413301}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\whrlpool">
+      <UniqueIdentifier>{42efbc87-71bc-4bdb-a90d-f173daaf1728}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\x509">
+      <UniqueIdentifier>{eaa841bc-d906-4882-bffa-5fa7093b2064}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drivers\builtin_openssl2\crypto\x509v3">
+      <UniqueIdentifier>{d73b0489-519c-43c5-a3fd-ee41fb5afbd2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="bin\tests\test_containers.cpp">
@@ -3524,6 +3701,2265 @@
     </ClCompile>
     <ClCompile Include="tools\freetype\freetype\src\otvalid\otvmod.c">
       <Filter>tools\freetype\freetype\src\otvalid</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\bio_ssl.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\d1_both.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\d1_clnt.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\d1_enc.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\d1_lib.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\d1_meth.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\d1_pkt.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\d1_srtp.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\d1_srvr.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\heartbeat_test.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\kssl.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s2_clnt.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s2_enc.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s2_lib.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s2_meth.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s2_pkt.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s2_srvr.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s3_both.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s3_cbc.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s3_clnt.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s3_enc.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s3_lib.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s3_meth.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s3_pkt.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s3_srvr.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s23_clnt.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s23_lib.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s23_meth.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s23_pkt.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\s23_srvr.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\ssl_algs.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\ssl_asn1.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\ssl_cert.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\ssl_ciph.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\ssl_err.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\ssl_err2.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\ssl_lib.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\ssl_rsa.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\ssl_sess.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\ssl_stat.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\ssl_task.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\ssl_txt.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\ssltest.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\t1_clnt.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\t1_enc.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\t1_lib.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\t1_meth.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\t1_reneg.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\t1_srvr.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\ssl\tls_srp.c">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\aes\aes_cbc.c">
+      <Filter>drivers\builtin_openssl2\crypto\aes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\aes\aes_cfb.c">
+      <Filter>drivers\builtin_openssl2\crypto\aes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\aes\aes_core.c">
+      <Filter>drivers\builtin_openssl2\crypto\aes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\aes\aes_ctr.c">
+      <Filter>drivers\builtin_openssl2\crypto\aes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\aes\aes_ecb.c">
+      <Filter>drivers\builtin_openssl2\crypto\aes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\aes\aes_ige.c">
+      <Filter>drivers\builtin_openssl2\crypto\aes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\aes\aes_misc.c">
+      <Filter>drivers\builtin_openssl2\crypto\aes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\aes\aes_ofb.c">
+      <Filter>drivers\builtin_openssl2\crypto\aes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\aes\aes_wrap.c">
+      <Filter>drivers\builtin_openssl2\crypto\aes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\aes\aes_x86core.c">
+      <Filter>drivers\builtin_openssl2\crypto\aes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_bitstr.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_bool.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_bytes.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_d2i_fp.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_digest.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_dup.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_enum.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_gentm.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_i2d_fp.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_int.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_mbstr.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_object.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_octet.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_print.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_set.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_sign.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_strex.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_strnid.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_time.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_type.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_utctm.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_utf8.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\a_verify.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\ameth_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\asn_mime.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\asn_moid.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\asn_pack.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\asn1_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\asn1_gen.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\asn1_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\asn1_par.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\bio_asn1.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\bio_ndef.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\d2i_pr.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\d2i_pu.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\evp_asn1.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\f_enum.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\f_int.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\f_string.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\i2d_pr.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\i2d_pu.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\n_pkey.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\nsseq.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\p5_pbe.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\p5_pbev2.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\p8_pkey.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\t_bitst.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\t_crl.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\t_pkey.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\t_req.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\t_spki.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\t_x509.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\t_x509a.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\tasn_dec.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\tasn_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\tasn_fre.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\tasn_new.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\tasn_prn.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\tasn_typ.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\tasn_utl.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_algor.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_attrib.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_bignum.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_crl.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_exten.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_info.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_long.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_name.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_nx509.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_pkey.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_pubkey.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_req.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_sig.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_spki.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_val.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_x509.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\asn1\x_x509a.c">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bf\bf_cbc.c">
+      <Filter>drivers\builtin_openssl2\crypto\bf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bf\bf_cfb64.c">
+      <Filter>drivers\builtin_openssl2\crypto\bf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bf\bf_ecb.c">
+      <Filter>drivers\builtin_openssl2\crypto\bf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bf\bf_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\bf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bf\bf_ofb64.c">
+      <Filter>drivers\builtin_openssl2\crypto\bf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bf\bf_opts.c">
+      <Filter>drivers\builtin_openssl2\crypto\bf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bf\bf_skey.c">
+      <Filter>drivers\builtin_openssl2\crypto\bf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bf\bfs.cpp">
+      <Filter>drivers\builtin_openssl2\crypto\bf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bf\bfspeed.c">
+      <Filter>drivers\builtin_openssl2\crypto\bf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bf\bftest.c">
+      <Filter>drivers\builtin_openssl2\crypto\bf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\b_dump.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\b_print.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\b_sock.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bf_buff.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bf_lbuf.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bf_nbio.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bf_null.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bio_cb.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bio_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bio_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bss_acpt.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bss_bio.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bss_conn.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bss_dgram.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bss_fd.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bss_file.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bss_log.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bss_mem.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bss_null.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bss_rtcp.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bio\bss_sock.c">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_add.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_asm.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_blind.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_const.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_ctx.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_depr.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_div.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_exp.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_exp2.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_gcd.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_gf2m.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_kron.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_mod.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_mont.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_mpi.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_mul.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_nist.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_prime.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_print.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_rand.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_recp.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_shift.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_sqr.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_sqrt.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_word.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bn_x931p.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bnspeed.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\bntest.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\divtest.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\exp.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\expspeed.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\exptest.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\bn\vms-helper.c">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\buffer\buf_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\buffer</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\buffer\buf_str.c">
+      <Filter>drivers\builtin_openssl2\crypto\buffer</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\buffer\buffer.c">
+      <Filter>drivers\builtin_openssl2\crypto\buffer</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\camellia\camellia.c">
+      <Filter>drivers\builtin_openssl2\crypto\camellia</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\camellia\cmll_cbc.c">
+      <Filter>drivers\builtin_openssl2\crypto\camellia</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\camellia\cmll_cfb.c">
+      <Filter>drivers\builtin_openssl2\crypto\camellia</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\camellia\cmll_ctr.c">
+      <Filter>drivers\builtin_openssl2\crypto\camellia</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\camellia\cmll_ecb.c">
+      <Filter>drivers\builtin_openssl2\crypto\camellia</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\camellia\cmll_misc.c">
+      <Filter>drivers\builtin_openssl2\crypto\camellia</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\camellia\cmll_ofb.c">
+      <Filter>drivers\builtin_openssl2\crypto\camellia</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\camellia\cmll_utl.c">
+      <Filter>drivers\builtin_openssl2\crypto\camellia</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cast\c_cfb64.c">
+      <Filter>drivers\builtin_openssl2\crypto\cast</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cast\c_ecb.c">
+      <Filter>drivers\builtin_openssl2\crypto\cast</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cast\c_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\cast</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cast\c_ofb64.c">
+      <Filter>drivers\builtin_openssl2\crypto\cast</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cast\c_skey.c">
+      <Filter>drivers\builtin_openssl2\crypto\cast</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cast\cast_spd.c">
+      <Filter>drivers\builtin_openssl2\crypto\cast</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cast\castopts.c">
+      <Filter>drivers\builtin_openssl2\crypto\cast</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cast\casts.cpp">
+      <Filter>drivers\builtin_openssl2\crypto\cast</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cast\casttest.c">
+      <Filter>drivers\builtin_openssl2\crypto\cast</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cmac\cm_ameth.c">
+      <Filter>drivers\builtin_openssl2\crypto\cmac</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cmac\cm_pmeth.c">
+      <Filter>drivers\builtin_openssl2\crypto\cmac</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cmac\cmac.c">
+      <Filter>drivers\builtin_openssl2\crypto\cmac</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cms\cms_asn1.c">
+      <Filter>drivers\builtin_openssl2\crypto\cms</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cms\cms_att.c">
+      <Filter>drivers\builtin_openssl2\crypto\cms</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cms\cms_cd.c">
+      <Filter>drivers\builtin_openssl2\crypto\cms</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cms\cms_dd.c">
+      <Filter>drivers\builtin_openssl2\crypto\cms</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cms\cms_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\cms</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cms\cms_env.c">
+      <Filter>drivers\builtin_openssl2\crypto\cms</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cms\cms_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\cms</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cms\cms_ess.c">
+      <Filter>drivers\builtin_openssl2\crypto\cms</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cms\cms_io.c">
+      <Filter>drivers\builtin_openssl2\crypto\cms</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cms\cms_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\cms</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cms\cms_pwri.c">
+      <Filter>drivers\builtin_openssl2\crypto\cms</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cms\cms_sd.c">
+      <Filter>drivers\builtin_openssl2\crypto\cms</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cms\cms_smime.c">
+      <Filter>drivers\builtin_openssl2\crypto\cms</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\comp\c_rle.c">
+      <Filter>drivers\builtin_openssl2\crypto\comp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\comp\c_zlib.c">
+      <Filter>drivers\builtin_openssl2\crypto\comp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\comp\comp_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\comp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\comp\comp_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\comp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\conf\cnf_save.c">
+      <Filter>drivers\builtin_openssl2\crypto\conf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\conf\conf_api.c">
+      <Filter>drivers\builtin_openssl2\crypto\conf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\conf\conf_def.c">
+      <Filter>drivers\builtin_openssl2\crypto\conf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\conf\conf_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\conf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\conf\conf_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\conf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\conf\conf_mall.c">
+      <Filter>drivers\builtin_openssl2\crypto\conf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\conf\conf_mod.c">
+      <Filter>drivers\builtin_openssl2\crypto\conf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\conf\conf_sap.c">
+      <Filter>drivers\builtin_openssl2\crypto\conf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\conf\test.c">
+      <Filter>drivers\builtin_openssl2\crypto\conf</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\cbc_cksm.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\cbc_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\cbc3_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\cfb_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\cfb64ede.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\cfb64enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\des.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\des_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\des_old.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\des_old2.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\des_opts.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\des3s.cpp">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\dess.cpp">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\destest.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\ecb_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\ecb3_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\ede_cbcm_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\enc_read.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\enc_writ.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\fcrypt.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\fcrypt_b.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\ncbc_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\ofb_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\ofb64ede.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\ofb64enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\pcbc_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\qud_cksm.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\rand_key.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\read_pwd.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\read2pwd.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\rpc_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\rpw.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\set_key.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\speed.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\str2key.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\des\xcbc_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dh\dh_ameth.c">
+      <Filter>drivers\builtin_openssl2\crypto\dh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dh\dh_asn1.c">
+      <Filter>drivers\builtin_openssl2\crypto\dh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dh\dh_check.c">
+      <Filter>drivers\builtin_openssl2\crypto\dh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dh\dh_depr.c">
+      <Filter>drivers\builtin_openssl2\crypto\dh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dh\dh_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\dh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dh\dh_gen.c">
+      <Filter>drivers\builtin_openssl2\crypto\dh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dh\dh_key.c">
+      <Filter>drivers\builtin_openssl2\crypto\dh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dh\dh_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\dh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dh\dh_pmeth.c">
+      <Filter>drivers\builtin_openssl2\crypto\dh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dh\dh_prn.c">
+      <Filter>drivers\builtin_openssl2\crypto\dh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dh\dhtest.c">
+      <Filter>drivers\builtin_openssl2\crypto\dh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dh\p192.c">
+      <Filter>drivers\builtin_openssl2\crypto\dh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dh\p512.c">
+      <Filter>drivers\builtin_openssl2\crypto\dh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dh\p1024.c">
+      <Filter>drivers\builtin_openssl2\crypto\dh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dsa\dsa_ameth.c">
+      <Filter>drivers\builtin_openssl2\crypto\dsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dsa\dsa_asn1.c">
+      <Filter>drivers\builtin_openssl2\crypto\dsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dsa\dsa_depr.c">
+      <Filter>drivers\builtin_openssl2\crypto\dsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dsa\dsa_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\dsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dsa\dsa_gen.c">
+      <Filter>drivers\builtin_openssl2\crypto\dsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dsa\dsa_key.c">
+      <Filter>drivers\builtin_openssl2\crypto\dsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dsa\dsa_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\dsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dsa\dsa_ossl.c">
+      <Filter>drivers\builtin_openssl2\crypto\dsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dsa\dsa_pmeth.c">
+      <Filter>drivers\builtin_openssl2\crypto\dsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dsa\dsa_prn.c">
+      <Filter>drivers\builtin_openssl2\crypto\dsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dsa\dsa_sign.c">
+      <Filter>drivers\builtin_openssl2\crypto\dsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dsa\dsa_vrf.c">
+      <Filter>drivers\builtin_openssl2\crypto\dsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dsa\dsagen.c">
+      <Filter>drivers\builtin_openssl2\crypto\dsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dsa\dsatest.c">
+      <Filter>drivers\builtin_openssl2\crypto\dsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dso\dso_beos.c">
+      <Filter>drivers\builtin_openssl2\crypto\dso</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dso\dso_dl.c">
+      <Filter>drivers\builtin_openssl2\crypto\dso</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dso\dso_dlfcn.c">
+      <Filter>drivers\builtin_openssl2\crypto\dso</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dso\dso_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\dso</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dso\dso_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\dso</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dso\dso_null.c">
+      <Filter>drivers\builtin_openssl2\crypto\dso</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dso\dso_openssl.c">
+      <Filter>drivers\builtin_openssl2\crypto\dso</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dso\dso_vms.c">
+      <Filter>drivers\builtin_openssl2\crypto\dso</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\dso\dso_win32.c">
+      <Filter>drivers\builtin_openssl2\crypto\dso</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ec_ameth.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ec_asn1.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ec_check.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ec_curve.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ec_cvt.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ec_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ec_key.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ec_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ec_mult.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ec_oct.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ec_pmeth.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ec_print.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ec2_mult.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ec2_oct.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ec2_smpl.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\eck_prn.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ecp_mont.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ecp_nist.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ecp_nistp224.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ecp_nistp256.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ecp_nistp521.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ecp_nistputil.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ecp_oct.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ecp_smpl.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ec\ectest.c">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ecdh\ecdhtest.c">
+      <Filter>drivers\builtin_openssl2\crypto\ecdh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ecdh\ech_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\ecdh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ecdh\ech_key.c">
+      <Filter>drivers\builtin_openssl2\crypto\ecdh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ecdh\ech_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\ecdh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ecdh\ech_ossl.c">
+      <Filter>drivers\builtin_openssl2\crypto\ecdh</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ecdsa\ecdsatest.c">
+      <Filter>drivers\builtin_openssl2\crypto\ecdsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ecdsa\ecs_asn1.c">
+      <Filter>drivers\builtin_openssl2\crypto\ecdsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ecdsa\ecs_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\ecdsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ecdsa\ecs_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\ecdsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ecdsa\ecs_ossl.c">
+      <Filter>drivers\builtin_openssl2\crypto\ecdsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ecdsa\ecs_sign.c">
+      <Filter>drivers\builtin_openssl2\crypto\ecdsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ecdsa\ecs_vrf.c">
+      <Filter>drivers\builtin_openssl2\crypto\ecdsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\eng_all.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\eng_cnf.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\eng_cryptodev.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\eng_ctrl.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\eng_dyn.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\eng_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\eng_fat.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\eng_init.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\eng_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\eng_list.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\eng_openssl.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\eng_pkey.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\eng_rdrand.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\eng_rsax.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\eng_table.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\enginetest.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\tb_asnmth.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\tb_cipher.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\tb_dh.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\tb_digest.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\tb_dsa.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\tb_ecdh.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\tb_ecdsa.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\tb_pkmeth.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\tb_rand.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\tb_rsa.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\engine\tb_store.c">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\err\err.c">
+      <Filter>drivers\builtin_openssl2\crypto\err</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\err\err_all.c">
+      <Filter>drivers\builtin_openssl2\crypto\err</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\err\err_prn.c">
+      <Filter>drivers\builtin_openssl2\crypto\err</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\bio_b64.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\bio_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\bio_md.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\bio_ok.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\c_all.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\c_allc.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\c_alld.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\digest.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_aes.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_aes_cbc_hmac_sha1.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_bf.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_camellia.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_cast.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_des.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_des3.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_dsa.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_idea.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_null.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_old.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_rc2.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_rc4.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_rc4_hmac_md5.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_rc5.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_seed.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\e_xcbc_d.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\encode.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\evp_acnf.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\evp_cnf.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\evp_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\evp_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\evp_fips.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\evp_key.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\evp_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\evp_pbe.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\evp_pkey.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\evp_test.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\m_dss.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\m_dss1.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\m_ecdsa.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\m_md2.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\m_md4.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\m_md5.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\m_mdc2.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\m_null.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\m_ripemd.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\m_sha.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\m_sha1.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\m_sigver.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\m_wp.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\names.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\openbsd_hw.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\p_dec.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\p_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\p_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\p_open.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\p_seal.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\p_sign.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\p_verify.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\p5_crpt.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\p5_crpt2.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\pmeth_fn.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\pmeth_gn.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\evp\pmeth_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\hmac\hm_ameth.c">
+      <Filter>drivers\builtin_openssl2\crypto\hmac</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\hmac\hm_pmeth.c">
+      <Filter>drivers\builtin_openssl2\crypto\hmac</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\hmac\hmac.c">
+      <Filter>drivers\builtin_openssl2\crypto\hmac</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\hmac\hmactest.c">
+      <Filter>drivers\builtin_openssl2\crypto\hmac</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\idea\i_cbc.c">
+      <Filter>drivers\builtin_openssl2\crypto\idea</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\idea\i_cfb64.c">
+      <Filter>drivers\builtin_openssl2\crypto\idea</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\idea\i_ecb.c">
+      <Filter>drivers\builtin_openssl2\crypto\idea</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\idea\i_ofb64.c">
+      <Filter>drivers\builtin_openssl2\crypto\idea</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\idea\i_skey.c">
+      <Filter>drivers\builtin_openssl2\crypto\idea</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\idea\idea_spd.c">
+      <Filter>drivers\builtin_openssl2\crypto\idea</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\idea\ideatest.c">
+      <Filter>drivers\builtin_openssl2\crypto\idea</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\jpake\jpake.c">
+      <Filter>drivers\builtin_openssl2\crypto\jpake</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\jpake\jpake_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\jpake</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\jpake\jpaketest.c">
+      <Filter>drivers\builtin_openssl2\crypto\jpake</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\krb5\krb5_asn.c">
+      <Filter>drivers\builtin_openssl2\crypto\krb5</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\lhash\lh_stats.c">
+      <Filter>drivers\builtin_openssl2\crypto\lhash</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\lhash\lh_test.c">
+      <Filter>drivers\builtin_openssl2\crypto\lhash</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\lhash\lhash.c">
+      <Filter>drivers\builtin_openssl2\crypto\lhash</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\md2\md2.c">
+      <Filter>drivers\builtin_openssl2\crypto\md2</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\md2\md2_dgst.c">
+      <Filter>drivers\builtin_openssl2\crypto\md2</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\md2\md2_one.c">
+      <Filter>drivers\builtin_openssl2\crypto\md2</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\md2\md2test.c">
+      <Filter>drivers\builtin_openssl2\crypto\md2</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\md4\md4.c">
+      <Filter>drivers\builtin_openssl2\crypto\md4</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\md4\md4_dgst.c">
+      <Filter>drivers\builtin_openssl2\crypto\md4</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\md4\md4_one.c">
+      <Filter>drivers\builtin_openssl2\crypto\md4</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\md4\md4s.cpp">
+      <Filter>drivers\builtin_openssl2\crypto\md4</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\md4\md4test.c">
+      <Filter>drivers\builtin_openssl2\crypto\md4</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\md5\md5.c">
+      <Filter>drivers\builtin_openssl2\crypto\md5</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\md5\md5_dgst.c">
+      <Filter>drivers\builtin_openssl2\crypto\md5</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\md5\md5_one.c">
+      <Filter>drivers\builtin_openssl2\crypto\md5</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\md5\md5s.cpp">
+      <Filter>drivers\builtin_openssl2\crypto\md5</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\md5\md5test.c">
+      <Filter>drivers\builtin_openssl2\crypto\md5</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\mdc2\mdc2_one.c">
+      <Filter>drivers\builtin_openssl2\crypto\mdc2</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\mdc2\mdc2dgst.c">
+      <Filter>drivers\builtin_openssl2\crypto\mdc2</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\mdc2\mdc2test.c">
+      <Filter>drivers\builtin_openssl2\crypto\mdc2</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\modes\cbc128.c">
+      <Filter>drivers\builtin_openssl2\crypto\modes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\modes\ccm128.c">
+      <Filter>drivers\builtin_openssl2\crypto\modes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\modes\cfb128.c">
+      <Filter>drivers\builtin_openssl2\crypto\modes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\modes\ctr128.c">
+      <Filter>drivers\builtin_openssl2\crypto\modes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\modes\cts128.c">
+      <Filter>drivers\builtin_openssl2\crypto\modes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\modes\gcm128.c">
+      <Filter>drivers\builtin_openssl2\crypto\modes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\modes\ofb128.c">
+      <Filter>drivers\builtin_openssl2\crypto\modes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\modes\xts128.c">
+      <Filter>drivers\builtin_openssl2\crypto\modes</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\pcy_cache.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\pcy_data.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\pcy_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\pcy_map.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\pcy_node.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\pcy_tree.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\tabtest.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_addr.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_akey.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_akeya.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_alt.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_asid.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_bcons.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_bitst.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_conf.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_cpols.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_crld.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_enum.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_extku.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_genn.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_ia5.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_info.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_int.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_ncons.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_ocsp.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_pci.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_pcia.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_pcons.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_pku.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_pmaps.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_prn.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_purp.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_skey.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_sxnet.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3_utl.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3conf.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3err.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509v3\v3prin.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\by_dir.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\by_file.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x_all.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_att.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_cmp.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_d2.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_def.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_ext.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_lu.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_obj.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_r2x.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_req.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_set.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_trs.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_txt.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_v3.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_vfy.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509_vpm.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509cset.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509name.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509rset.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509spki.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\x509\x509type.c">
+      <Filter>drivers\builtin_openssl2\crypto\x509</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\whrlpool\wp_block.c">
+      <Filter>drivers\builtin_openssl2\crypto\whrlpool</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\whrlpool\wp_dgst.c">
+      <Filter>drivers\builtin_openssl2\crypto\whrlpool</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\whrlpool\wp_test.c">
+      <Filter>drivers\builtin_openssl2\crypto\whrlpool</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ui\ui_compat.c">
+      <Filter>drivers\builtin_openssl2\crypto\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ui\ui_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ui\ui_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ui\ui_openssl.c">
+      <Filter>drivers\builtin_openssl2\crypto\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ui\ui_util.c">
+      <Filter>drivers\builtin_openssl2\crypto\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\txt_db\txt_db.c">
+      <Filter>drivers\builtin_openssl2\crypto\txt_db</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ts\ts_asn1.c">
+      <Filter>drivers\builtin_openssl2\crypto\ts</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ts\ts_conf.c">
+      <Filter>drivers\builtin_openssl2\crypto\ts</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ts\ts_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\ts</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ts\ts_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\ts</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ts\ts_req_print.c">
+      <Filter>drivers\builtin_openssl2\crypto\ts</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ts\ts_req_utils.c">
+      <Filter>drivers\builtin_openssl2\crypto\ts</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ts\ts_rsp_print.c">
+      <Filter>drivers\builtin_openssl2\crypto\ts</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ts\ts_rsp_sign.c">
+      <Filter>drivers\builtin_openssl2\crypto\ts</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ts\ts_rsp_utils.c">
+      <Filter>drivers\builtin_openssl2\crypto\ts</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ts\ts_rsp_verify.c">
+      <Filter>drivers\builtin_openssl2\crypto\ts</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ts\ts_verify_ctx.c">
+      <Filter>drivers\builtin_openssl2\crypto\ts</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\threads\mttest.c">
+      <Filter>drivers\builtin_openssl2\crypto\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\threads\th-lock.c">
+      <Filter>drivers\builtin_openssl2\crypto\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\store\str_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\store</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\store\str_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\store</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\store\str_mem.c">
+      <Filter>drivers\builtin_openssl2\crypto\store</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\store\str_meth.c">
+      <Filter>drivers\builtin_openssl2\crypto\store</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\stack\stack.c">
+      <Filter>drivers\builtin_openssl2\crypto\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\srp\srp_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\srp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\srp\srp_vfy.c">
+      <Filter>drivers\builtin_openssl2\crypto\srp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\srp\srptest.c">
+      <Filter>drivers\builtin_openssl2\crypto\srp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\sha\sha.c">
+      <Filter>drivers\builtin_openssl2\crypto\sha</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\sha\sha_dgst.c">
+      <Filter>drivers\builtin_openssl2\crypto\sha</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\sha\sha_one.c">
+      <Filter>drivers\builtin_openssl2\crypto\sha</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\sha\sha1.c">
+      <Filter>drivers\builtin_openssl2\crypto\sha</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\sha\sha1_one.c">
+      <Filter>drivers\builtin_openssl2\crypto\sha</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\sha\sha1dgst.c">
+      <Filter>drivers\builtin_openssl2\crypto\sha</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\sha\sha1test.c">
+      <Filter>drivers\builtin_openssl2\crypto\sha</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\sha\sha256.c">
+      <Filter>drivers\builtin_openssl2\crypto\sha</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\sha\sha256t.c">
+      <Filter>drivers\builtin_openssl2\crypto\sha</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\sha\sha512.c">
+      <Filter>drivers\builtin_openssl2\crypto\sha</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\sha\sha512t.c">
+      <Filter>drivers\builtin_openssl2\crypto\sha</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\sha\shatest.c">
+      <Filter>drivers\builtin_openssl2\crypto\sha</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\seed\seed.c">
+      <Filter>drivers\builtin_openssl2\crypto\seed</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\seed\seed_cbc.c">
+      <Filter>drivers\builtin_openssl2\crypto\seed</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\seed\seed_cfb.c">
+      <Filter>drivers\builtin_openssl2\crypto\seed</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\seed\seed_ecb.c">
+      <Filter>drivers\builtin_openssl2\crypto\seed</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\seed\seed_ofb.c">
+      <Filter>drivers\builtin_openssl2\crypto\seed</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_ameth.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_asn1.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_chk.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_crpt.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_depr.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_eay.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_gen.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_none.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_null.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_oaep.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_pk1.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_pmeth.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_prn.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_pss.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_saos.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_sign.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_ssl.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_test.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rsa\rsa_x931.c">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ripemd\rmd_dgst.c">
+      <Filter>drivers\builtin_openssl2\crypto\ripemd</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ripemd\rmd_one.c">
+      <Filter>drivers\builtin_openssl2\crypto\ripemd</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ripemd\rmd160.c">
+      <Filter>drivers\builtin_openssl2\crypto\ripemd</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ripemd\rmdtest.c">
+      <Filter>drivers\builtin_openssl2\crypto\ripemd</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc5\rc5_ecb.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc5</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc5\rc5_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc5</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc5\rc5_skey.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc5</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc5\rc5cfb64.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc5</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc5\rc5ofb64.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc5</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc5\rc5s.cpp">
+      <Filter>drivers\builtin_openssl2\crypto\rc5</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc5\rc5speed.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc5</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc5\rc5test.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc5</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc4\rc4.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc4</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc4\rc4_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc4</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc4\rc4_skey.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc4</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc4\rc4_utl.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc4</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc4\rc4s.cpp">
+      <Filter>drivers\builtin_openssl2\crypto\rc4</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc4\rc4speed.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc4</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc4\rc4test.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc4</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc2\rc2_cbc.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc2</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc2\rc2_ecb.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc2</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc2\rc2_skey.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc2</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc2\rc2cfb64.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc2</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc2\rc2ofb64.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc2</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc2\rc2speed.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc2</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc2\rc2test.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc2</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rc2\tab.c">
+      <Filter>drivers\builtin_openssl2\crypto\rc2</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rand\md_rand.c">
+      <Filter>drivers\builtin_openssl2\crypto\rand</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rand\rand_egd.c">
+      <Filter>drivers\builtin_openssl2\crypto\rand</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rand\rand_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\rand</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rand\rand_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\rand</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rand\rand_nw.c">
+      <Filter>drivers\builtin_openssl2\crypto\rand</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rand\rand_os2.c">
+      <Filter>drivers\builtin_openssl2\crypto\rand</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rand\rand_unix.c">
+      <Filter>drivers\builtin_openssl2\crypto\rand</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rand\rand_vms.c">
+      <Filter>drivers\builtin_openssl2\crypto\rand</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rand\rand_win.c">
+      <Filter>drivers\builtin_openssl2\crypto\rand</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rand\randfile.c">
+      <Filter>drivers\builtin_openssl2\crypto\rand</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\rand\randtest.c">
+      <Filter>drivers\builtin_openssl2\crypto\rand</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pqueue\pq_test.c">
+      <Filter>drivers\builtin_openssl2\crypto\pqueue</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pqueue\pqueue.c">
+      <Filter>drivers\builtin_openssl2\crypto\pqueue</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs12\p12_add.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs12</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs12\p12_asn.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs12</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs12\p12_attr.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs12</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs12\p12_crpt.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs12</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs12\p12_crt.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs12</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs12\p12_decr.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs12</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs12\p12_init.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs12</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs12\p12_key.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs12</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs12\p12_kiss.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs12</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs12\p12_mutl.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs12</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs12\p12_npas.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs12</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs12\p12_p8d.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs12</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs12\p12_p8e.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs12</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs12\p12_utl.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs12</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs12\pk12err.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs12</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\bio_ber.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\bio_pk7.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\dec.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\example.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\pk7_asn1.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\pk7_attr.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\pk7_dgst.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\pk7_doit.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\pk7_enc.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\pk7_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\pk7_mime.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\pk7_smime.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\pkcs7err.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\sign.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pkcs7\verify.c">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pem\pem_all.c">
+      <Filter>drivers\builtin_openssl2\crypto\pem</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pem\pem_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\pem</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pem\pem_info.c">
+      <Filter>drivers\builtin_openssl2\crypto\pem</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pem\pem_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\pem</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pem\pem_oth.c">
+      <Filter>drivers\builtin_openssl2\crypto\pem</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pem\pem_pk8.c">
+      <Filter>drivers\builtin_openssl2\crypto\pem</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pem\pem_pkey.c">
+      <Filter>drivers\builtin_openssl2\crypto\pem</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pem\pem_seal.c">
+      <Filter>drivers\builtin_openssl2\crypto\pem</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pem\pem_sign.c">
+      <Filter>drivers\builtin_openssl2\crypto\pem</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pem\pem_x509.c">
+      <Filter>drivers\builtin_openssl2\crypto\pem</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pem\pem_xaux.c">
+      <Filter>drivers\builtin_openssl2\crypto\pem</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\pem\pvkfmt.c">
+      <Filter>drivers\builtin_openssl2\crypto\pem</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ocsp\ocsp_asn.c">
+      <Filter>drivers\builtin_openssl2\crypto\ocsp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ocsp\ocsp_cl.c">
+      <Filter>drivers\builtin_openssl2\crypto\ocsp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ocsp\ocsp_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\ocsp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ocsp\ocsp_ext.c">
+      <Filter>drivers\builtin_openssl2\crypto\ocsp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ocsp\ocsp_ht.c">
+      <Filter>drivers\builtin_openssl2\crypto\ocsp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ocsp\ocsp_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\ocsp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ocsp\ocsp_prn.c">
+      <Filter>drivers\builtin_openssl2\crypto\ocsp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ocsp\ocsp_srv.c">
+      <Filter>drivers\builtin_openssl2\crypto\ocsp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ocsp\ocsp_vfy.c">
+      <Filter>drivers\builtin_openssl2\crypto\ocsp</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\objects\o_names.c">
+      <Filter>drivers\builtin_openssl2\crypto\objects</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\objects\obj_dat.c">
+      <Filter>drivers\builtin_openssl2\crypto\objects</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\objects\obj_err.c">
+      <Filter>drivers\builtin_openssl2\crypto\objects</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\objects\obj_lib.c">
+      <Filter>drivers\builtin_openssl2\crypto\objects</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\objects\obj_xref.c">
+      <Filter>drivers\builtin_openssl2\crypto\objects</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\armcap.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cpt_err.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cryptlib.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\cversion.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ebcdic.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ex_data.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\fips_ers.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\LPdir_nyi.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\LPdir_unix.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\LPdir_vms.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\LPdir_win.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\LPdir_win32.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\LPdir_wince.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\mem.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\mem_clr.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\mem_dbg.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\o_dir.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\o_dir_test.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\o_fips.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\o_init.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\o_str.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\o_time.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\ppccap.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\s390xcap.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\sparcv9cap.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\crypto\uid.c">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="drivers\builtin_openssl2\nocpuid.c">
+      <Filter>drivers\builtin_openssl2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -7088,6 +9524,192 @@
     <ClInclude Include="drivers\builtin_openssl2\openssl\x509v3.h">
       <Filter>drivers\builtin_openssl2\openssl</Filter>
     </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\ssl\kssl_lcl.h">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\ssl\ssl_locl.h">
+      <Filter>drivers\builtin_openssl2\ssl</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\aes\aes_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\aes</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\asn1\asn1_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\asn1\charmap.h">
+      <Filter>drivers\builtin_openssl2\crypto\asn1</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\bf\bf_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\bf</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\bf\bf_pi.h">
+      <Filter>drivers\builtin_openssl2\crypto\bf</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\bio\bio_lcl.h">
+      <Filter>drivers\builtin_openssl2\crypto\bio</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\bn\bn_lcl.h">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\bn\bn_prime.h">
+      <Filter>drivers\builtin_openssl2\crypto\bn</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\camellia\cmll_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\camellia</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\cast\cast_lcl.h">
+      <Filter>drivers\builtin_openssl2\crypto\cast</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\cast\cast_s.h">
+      <Filter>drivers\builtin_openssl2\crypto\cast</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\cms\cms_lcl.h">
+      <Filter>drivers\builtin_openssl2\crypto\cms</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\conf\conf_def.h">
+      <Filter>drivers\builtin_openssl2\crypto\conf</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\des\des_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\des\des_ver.h">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\des\rpc_des.h">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\des\spr.h">
+      <Filter>drivers\builtin_openssl2\crypto\des</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\dsa\dsa_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\dsa</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\ec\ec_lcl.h">
+      <Filter>drivers\builtin_openssl2\crypto\ec</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\ecdh\ech_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\ecdh</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\ecdsa\ecs_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\ecdsa</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\engine\eng_int.h">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\evp\evp_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\evp</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\idea\idea_lcl.h">
+      <Filter>drivers\builtin_openssl2\crypto\idea</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\jpake\jpake.h">
+      <Filter>drivers\builtin_openssl2\crypto\jpake</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\md2\md2.h">
+      <Filter>drivers\builtin_openssl2\crypto\md2</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\md4\md4_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\md4</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\md5\md5_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\md5</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\modes\modes_lcl.h">
+      <Filter>drivers\builtin_openssl2\crypto\modes</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\x509v3\ext_dat.h">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\x509v3\pcy_int.h">
+      <Filter>drivers\builtin_openssl2\crypto\x509v3</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\whrlpool\wp_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\whrlpool</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\ui\ui_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\store\store.h">
+      <Filter>drivers\builtin_openssl2\crypto\store</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\store\str_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\store</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\srp\srp_grps.h">
+      <Filter>drivers\builtin_openssl2\crypto\srp</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\srp\srp_lcl.h">
+      <Filter>drivers\builtin_openssl2\crypto\srp</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\sha\sha_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\sha</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\seed\seed_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\seed</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\rsa\rsa_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\rsa</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\ripemd\rmd_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\ripemd</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\ripemd\rmdconst.h">
+      <Filter>drivers\builtin_openssl2\crypto\ripemd</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\rc5\rc5.h">
+      <Filter>drivers\builtin_openssl2\crypto\rc5</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\rc5\rc5_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\rc5</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\rc4\rc4_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\rc4</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\rc2\rc2_locl.h">
+      <Filter>drivers\builtin_openssl2\crypto\rc2</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\rand\rand_lcl.h">
+      <Filter>drivers\builtin_openssl2\crypto\rand</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\pkcs7\example.h">
+      <Filter>drivers\builtin_openssl2\crypto\pkcs7</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\objects\obj_dat.h">
+      <Filter>drivers\builtin_openssl2\crypto\objects</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\objects\obj_xref.h">
+      <Filter>drivers\builtin_openssl2\crypto\objects</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\arm_arch.h">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\cryptlib.h">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\fips_err.h">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\md32_common.h">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\o_dir.h">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\o_str.h">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\o_time.h">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\crypto\vms_rms.h">
+      <Filter>drivers\builtin_openssl2\crypto</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\buildinf.h">
+      <Filter>drivers\builtin_openssl2</Filter>
+    </ClInclude>
+    <ClInclude Include="drivers\builtin_openssl2\e_os.h">
+      <Filter>drivers\builtin_openssl2</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="core\method_bind.inc">
@@ -7167,6 +9789,12 @@
     </None>
     <None Include="methods.py" />
     <None Include="version.py" />
+    <None Include="drivers\builtin_openssl2\crypto\aes\README">
+      <Filter>drivers\builtin_openssl2\crypto\aes</Filter>
+    </None>
+    <None Include="drivers\builtin_openssl2\crypto\engine\README">
+      <Filter>drivers\builtin_openssl2\crypto\engine</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Xml Include="demos\2d\tetris\grid.xml">
